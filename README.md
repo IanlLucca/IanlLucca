@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1>Hi, my name's Ian Lucca</h1>
+<p>-| Computer Science student |-</p>
+<h2>About me</h2>
+<p>
+  Hi, I'm Ian, a Computer Science student with a strong foundation in programming and technology. I am currently pursuing my degree in Computer Science at FAM (Faculdade das Américas), where I'm deepening my knowledge of computer science concepts and enhancing my technical skills
+</p>
+<p>
+  I am proficient in English at an advanced level, which helps me collaborate with international teams and stay updated with the latest trends in tech.
+</p>
+<p>
+  My technical expertise includes programming languages like Python and Java, as well as front-end web development with HTML and CSS. I am passionate about continuous learning, improving my coding abilities, and tackling new challenges.
+</p>
+<p>
+  I am looking to improve my skills by working alongside professionals in the field, and I'm eager to contribute to collaborative projects that push the boundaries of innovation.
+</p>
 
-<!--
-**IanlLucca/IanlLucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/IanlLucca/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IanlLucca&show_icons=true&theme=dracula" />
+</a>
 
-Here are some ideas to get you started:
+<h2>Most used programming languages by me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50"/>
+          
+</div>
+
+
+
+
+
+    
