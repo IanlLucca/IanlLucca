@@ -14,10 +14,12 @@
   I am looking to improve my skills by working alongside professionals in the field, and I'm eager to contribute to collaborative projects that push the boundaries of innovation.
 </p>
 
+<div style="display: flex;">
 <a href="https://github.com/IanlLucca/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IanlLucca&show_icons=true&theme=dracula" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanlLucca&langs_count=8&theme=dracula" />
 </a>
+</div>
 
 <h2>My favorite programming languages<h2/>
 <!--<h2>Most used programming languages by me</h2>-->
