@@ -21,8 +21,7 @@
 </a>
 </div>
 
-<h2>My favorite programming languages<h2/>
-<!--<h2>Most used programming languages by me</h2>-->
+<h2>The programming/markup languages most used by me</h2>
 
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="50"/> 
